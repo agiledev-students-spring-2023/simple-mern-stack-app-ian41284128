@@ -9,10 +9,10 @@ import './Home.css'
 const Home = props => {
   return (
     <>
-      <h1>Hello and welcome!</h1>
-      <p>This is a full MERN-stack app, whether you like it or not!</p>
+      <h1>Hello</h1>
+      <p>bottom text</p>
       <p>
-        Check out the <Link to="/messages">messages page</Link>.
+        <Link to="/AboutUs">About Us</Link>.
       </p>
     </>
   )
